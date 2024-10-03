@@ -5,10 +5,10 @@ This is the code for the manuscript "Space-time virtual element method for elast
 # For example 1
 * displacement
 <div align="center">
-    <img src="https://github.com/Qinxiaoye/VEM_space_time_dynamic/blob/main/displacement.png">
+    <img src="https://github.com/Qinxiaoye/VEM-space-time-dynamic/blob/main/displacement.png">
 </div>
 
 * velocity
 <div align="center">
-    <img src="https://github.com/Qinxiaoye/VEM_space_time_dynamic/blob/main/velocity.png">
+    <img src="https://github.com/Qinxiaoye/VEM-space-time-dynamic/blob/main/velocity.png">
 </div>
