@@ -1,6 +1,8 @@
 # VEM_space_time_dynamic
 
-This is the code for the manuscript "Space-time virtual element method for elastodynamics: theory, applications, and code development", submitted to CMAME.
+This is the code for the manuscript "Space-time virtual element method for elastodynamics: theory, applications, and code development", CMAME.
+
+https://doi.org/10.1016/j.cma.2024.117683
 
 # For example 1
 * displacement
